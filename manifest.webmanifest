@@ -1,0 +1,1 @@
+{"name":"PayPal","short_name":"PayPal","description":"Send, receive, and manage your money with PayPal","start_url":"/Paypal2/","display":"standalone","background_color":"#ffffff","theme_color":"#003087","lang":"en","scope":"/Paypal2/","orientation":"portrait","icons":[{"src":"paypal-icon.svg","sizes":"512x512","type":"image/svg+xml","purpose":"any maskable"}]}
